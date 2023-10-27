@@ -1,0 +1,23 @@
+{
+  "name": "levi-lasanha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/css/input.css -o ./src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinarauj/levi-lasanha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinarauj/levi-lasanha/issues"
+  },
+  "homepage": "./",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
